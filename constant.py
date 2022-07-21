@@ -1,1 +1,6 @@
 
+
+DIS_WIDTH = 1080
+DIS_HEIGHT = 720
+
+INIT_DIR = "D:\\"
